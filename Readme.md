@@ -4,7 +4,7 @@
 
 ## Использование
 
-* Скопировать директорию `pasteimage` в `tiny_mce\plugins`.
+* Скопировать директорию `pasteimage` в `tiny_mce/plugins`.
 * При инициализации редактора добавить `pasteimage` в плагины:
 
 ```javascript
